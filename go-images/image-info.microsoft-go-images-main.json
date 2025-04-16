@@ -1,6 +1,6 @@
 {
     "fake-docker-image-info": {
-        "image_name": "fake-docker-image",
+        "image_name": "fake-docker-image-2",
         "image_tag": "latest",
         "image_id": "1234567890abcdef",
         "image_size": 12345678,
