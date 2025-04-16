@@ -1,0 +1,10 @@
+{
+    "fake-docker-image-info": {
+        "image_name": "fake-docker-image",
+        "image_tag": "latest",
+        "image_id": "1234567890abcdef",
+        "image_size": 12345678,
+        "created_at": "2023-10-01T12:00:00Z",
+        "dockerfile_path": "/path/to/Dockerfile"
+    }
+}
